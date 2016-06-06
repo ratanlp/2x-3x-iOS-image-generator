@@ -3,7 +3,7 @@ Utility class to create @2x and @3x sizes images for iOS development. Just provi
 
 #License
 
-(c) 2015 Ratan Lal Prasad
+(c) 2016 Ratan Lal Prasad
 
 This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
